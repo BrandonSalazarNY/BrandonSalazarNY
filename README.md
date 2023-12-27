@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brandon Salazar.@BrandonSalazarNY
-- 📖 I am a freshman at Rider University double majoring in **Information Systems and Computer Science** 
+- 📖 I am a freshman at Rider University Majoring in **Information Systems with a Minor in Computer Science** 
 - 🌱 I’m currently learning iOS development which includes the use of Xcode, Swift, and Swift UI.
 -  💡I am interested in learning more about the topic of **Supply Chain** in the field of **logistics** , **software management**, and **IoT** .
 - 💞️ I’m looking to collaborate on website development projects and iOS projects.
