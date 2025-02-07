@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brandon Salazar
-- 📖 I am a sophomore at Rider University Majoring in **Information Systems & Business Data Analytics** with a Minor in **Computer Science**
+- 📖 I am a sophomore at Rider University Majoring in **Information Systems** with a Minor in **Computer Science**
 - 🎙️ I host a podcast in which I interview executives, emerging leaders, and students.
 - 🌱 I’m currently learning intermediate Python and Javascript.
   
